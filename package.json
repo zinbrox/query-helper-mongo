@@ -1,0 +1,22 @@
+{
+  "name": "query-helper-mongo",
+  "version": "1.0.0",
+  "description": "A query builder helper for mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zinbrox/query-helper-mongo.git"
+  },
+  "keywords": [
+    "mongo"
+  ],
+  "author": "zinbrox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zinbrox/query-helper-mongo/issues"
+  },
+  "homepage": "https://github.com/zinbrox/query-helper-mongo#readme"
+}
